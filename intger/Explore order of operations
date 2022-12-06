@@ -52,3 +52,6 @@ short min=short.MaxValue;
 short max=short.MinValue;
 Console.WriteLine($"the minimum value short is {min} and maximum value of short is {max}");
 
+// challenge to find the area of circle
+int r=3;
+ Console.WriteLine(Math.PI*r*r);
