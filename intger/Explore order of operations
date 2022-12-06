@@ -39,3 +39,16 @@ Console.WriteLine(a/b);
 decimal a=10,b=3;
 decimal final=a/b;
 Console.WriteLine(final);
+
+
+// to find max and minimum of the decimal
+decimal min=decimal.MaxValue;
+decimal max=decimal.MinValue;
+Console.WriteLine($"the minimum value is {min} and maximum value is {max}");
+
+
+// short 
+short min=short.MaxValue;
+short max=short.MinValue;
+Console.WriteLine($"the minimum value short is {min} and maximum value of short is {max}");
+
