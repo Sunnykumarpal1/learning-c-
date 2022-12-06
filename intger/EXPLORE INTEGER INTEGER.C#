@@ -1,0 +1,20 @@
+int a=4,b=4,c=8;
+// CONSOLE.WRITELINE is used to print values
+Console.WriteLine(a+b+c);
+// here we are adding a+b+C
+int a=3,b=4,c=10;
+Console.WriteLine(c-b);
+Console.WriteLine(b-a);
+
+// multiplication
+ int a=3,b=4;
+int c=a*b;
+Console.WriteLine(c);
+
+int a=3;
+int sum=1;
+while(a>0){
+    sum+=a;
+    a--;
+}
+Console.WriteLine(sum);
