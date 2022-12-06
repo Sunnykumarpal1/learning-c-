@@ -5,3 +5,8 @@ Console.WriteLine(a+b+c);
 int a=3,b=4,c=10;
 Console.WriteLine(c-b);
 Console.WriteLine(b-a);
+
+// multiplication
+ int a=3,b=4;
+int c=a*b;
+Console.WriteLine(c);
