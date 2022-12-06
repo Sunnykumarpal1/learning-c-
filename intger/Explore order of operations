@@ -17,7 +17,7 @@ int min=int.MinValue;
 Console.WriteLine(max);
 Console.WriteLine(min);
 
-we can use the same approach to find the maximum and minimum in particular data type
+we can use the same approach to find the maximum and minimum for particular data type
 
 // interpolation used to print values
 eg:- int max=int.MaxValue;
