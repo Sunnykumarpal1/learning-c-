@@ -1,0 +1,31 @@
+so here as we know that * and / has more presedence than + and - so first it multillies and then it adds 
+
+int a=5,b=4,c=3;
+int d=a*b+c;
+Console.WriteLine(d);
+ 
+ ans = 23
+ // to find remainder
+ double a=5,b=4,c=3;
+ double d=(a+b)%c;
+Console.WriteLine(d);
+
+
+// to find the maximum and minimum limit of integer
+int max=int.MaxValue;
+int min=int.MinValue;
+Console.WriteLine(max);
+Console.WriteLine(min);
+
+we can use the same approach to find the maximum and minimum in particular data type
+
+// interpolation used to print values
+eg:- int max=int.MaxValue;
+int min=int.MinValue;
+Console.WriteLine($"the maximum value is {max}and the minimum value is {min}");
+
+// so when the integer limit is overflowd it slips to it's opposite
+int max=int.MaxValue;
+int min=int.MinValue;
+int where=max;
+Console.WriteLine(where);
