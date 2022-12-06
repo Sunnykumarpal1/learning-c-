@@ -29,3 +29,13 @@ int max=int.MaxValue;
 int min=int.MinValue;
 int where=max;
 Console.WriteLine(where);
+
+
+// double
+double a=10,b=3;
+Console.WriteLine(a/b);
+
+// it have bigger value than intger
+decimal a=10,b=3;
+decimal final=a/b;
+Console.WriteLine(final);
